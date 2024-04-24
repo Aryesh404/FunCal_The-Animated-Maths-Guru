@@ -1,3 +1,4 @@
+Introducing FunCalc: 🎉 The Animated Science Guru! 🧮 FunCalc is not your ordinary scientific calculator. It's a unique web-based tool that combines functionality with entertainment. Crunch numbers with ease using its comprehensive set of scientific functions, while enjoying a delightful experience with integrated animations and jokes. 🤣 Make math sessions more engaging and enjoyable by adding a touch of humor to your calculations. With FunCalc, accuracy meets fun, making it the perfect go-to tool for both serious study and casual exploration of mathematical concepts. 🚀
 1)This is the index page of the Funny Calculator
 ![Screenshot 2024-04-24 235943](https://github.com/Aryesh404/FunCal_Where-Math-meets-humour/assets/142689032/41a36307-8a20-441c-a0d7-333b230abc23)
 2)After Calculating this is Result page
