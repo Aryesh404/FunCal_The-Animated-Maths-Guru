@@ -54,7 +54,7 @@
         img {
             width: 35%;
             height: auto;
-            margin-top: 20px;
+            margin-top: 30px;
             filter: drop-shadow(20px 10px 10px black);
             border-radius: 10px;
         }
