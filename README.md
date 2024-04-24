@@ -1,4 +1,4 @@
-# FunCalc 🎉: The Animated Science Guru!
+# FunCalc 🎉: The Animated Maths Guru!
 
 FunCalc is not your ordinary scientific calculator. It's a unique web-based tool that combines functionality with entertainment.
 
