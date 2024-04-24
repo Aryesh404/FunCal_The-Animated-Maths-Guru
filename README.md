@@ -10,9 +10,6 @@ FunCalc is not your ordinary scientific calculator. It's a unique web-based tool
 ## Why FunCalc?
 Make math sessions more engaging and enjoyable by adding a touch of humor to your calculations. With FunCalc, accuracy meets fun, making it the perfect go-to tool for both serious study and casual exploration of mathematical concepts.
 
-## Get Started
-Visit [FunCalc](#) now and experience the joy of math with a twist!
-
 
 
 1)This is the index page of the Funny Calculator
